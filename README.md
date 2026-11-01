@@ -1,4 +1,11 @@
-# Homebrew tap for Push Deck
+# Homebrew tap
+
+Apps in this tap:
+
+- **Magpiary**: `brew install --cask arcept/tap/magpiary` ([Magpiary](https://github.com/arcept/magpiary) keeps the posts you save in a searchable library on your Mac).
+- **Push Deck**: `brew install --cask arcept/tap/pushdeck`.
+
+## Push Deck
 
 [Push Deck](https://github.com/arcept/pushdeck) turns an Ableton Push 2 into a per-app controller and live display for your Mac.
 

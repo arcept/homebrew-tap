@@ -2,7 +2,6 @@
 
 Apps in this tap:
 
-- **Magpiary**: `brew install --cask arcept/tap/magpiary` ([Magpiary](https://github.com/arcept/magpiary) keeps the posts you save in a searchable library on your Mac).
 - **Push Deck**: `brew install --cask arcept/tap/pushdeck`.
 
 ## Push Deck
